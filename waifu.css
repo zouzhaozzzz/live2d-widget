@@ -27,7 +27,7 @@
 	left: 0;
 	line-height: 0;
 	margin-bottom: -10px;
-	position: fixed;
+	position: fixed;right:10px;
 	transform: translateY(3px);
 	transition: transform .3s ease-in-out, bottom 3s ease-in-out;
 	z-index: 1;
